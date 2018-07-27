@@ -8,9 +8,10 @@ $APPLICATION->SetTitle("aksessuary");
 
 
     <div class="content">
-        <div style="transform-origin: 0 0; transform: scale(1); margin-bottom:-1000px;">
+        <div style="">
             <iframe src="http://dat-accessories.palmer-hargreaves.ru"
-                  height="2048px" width="2015px" frameborder="0" scrolling="yes" style="max-width:100%"></iframe>
+                  height="1000px" width="2015px" frameborder="0" scrolling="yes" style="max-width:100%">
+            </iframe>
         </div>
         ﻿
     </div>
