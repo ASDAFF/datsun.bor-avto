@@ -36,7 +36,6 @@ $APPLICATION->SetTitle("center");
 
                 <p>&nbsp;</p>
                 <div class="news-bxslider">
-                    <li><a class="news-item-fancy" href="./images/IMG_11.jpg"><img src="./images/IMG_11.jpg" style="width: 335px; height: 188px;" /></a></li>
                     <li><a class="news-item-fancy" href="./images/IMG_12.jpg"><img src="./images/IMG_12.jpg" /></a></li>
                     <li><a class="news-item-fancy" href="./images/IMG_13.jpg"><img src="./images/IMG_13.jpg" /></a></li>
                     <li><a class="news-item-fancy" href="./images/IMG_14.jpg"><img src="./images/IMG_14.jpg" style="width: 335px; height: 188px;" /></a></li>
