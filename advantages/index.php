@@ -91,28 +91,9 @@ $APPLICATION->SetTitle("advantages");
             </div>
 
             <div class="advantages-video-gallery">
-                <div class="first-title"> 			 Видеогалерея 		</div>
-
-                <div id="advantages-video-gallery">
-                    <div> <a class="video-fancybox image" href="#onDoStart" > <img alt="2" src="./images/video-gallery/2.jpg"  /> </a>
-                        <div class="title"> 					 Datsun on-DO «Начало» 				</div>
-
-                        <div class="date"> 					 Опубликовано: Вс 2 марта 2015 				</div>
-                    </div>
-
-                    <div> <a class="video-fancybox image" href="#miDoStart" > <img alt="1" src="./images/video-gallery/1.jpg"  /> </a>
-                        <div class="title"> 					 Datsun mi-DO «Начало» 				</div>
-
-                        <div class="date"> 					 Опубликовано: Вс 2 марта 2015 				</div>
-                    </div>
-
-                    <div> <a class="video-fancybox image" href="#mmac2014" > <img alt="3" src="./images/video-gallery/3.jpg"  /> </a>
-                        <div class="title"> 					 Datsun на MMAC’2014 				</div>
-
-                        <div class="date"> 					 Опубликовано: Чт 11 сентября 2014 				</div>
-                    </div>
-                </div>
+                <div class="first-title">DATSUN СЕЙЧАС</div>
             </div>
+
             <a class="video-fancybox image start" href="#datsunToday" > <img src="./images/start.jpg" class="advantages-img"  /> </a>
             <div class="advantages-slider">
                 <ul class="advantages-slider-bx">
@@ -165,7 +146,7 @@ $APPLICATION->SetTitle("advantages");
             <iframe src="timeline.htm" class="timeline-frame" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
         </div>
 
-        <div id="datsunToday" style="display: none;"> 	 Video iframe code here <iframe width="854" height="480" src="https://www.youtube.com/embed/VNZkLSvg4nA" frameborder="0" allowfullscreen=""></iframe>
+        <div id="datsunToday" style="display: none;"> <iframe width="854" height="480" src="https://www.youtube.com/embed/Rs57J92rNK8" frameborder="0" allowfullscreen=""></iframe>
             <div class="title"> 		 Datsun сегодня 	</div>
         </div>
 
