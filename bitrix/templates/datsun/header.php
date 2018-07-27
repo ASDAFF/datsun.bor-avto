@@ -30,6 +30,8 @@
     <script src="<?=SITE_TEMPLATE_PATH?>/js/tools.js"></script>
     <script src="<?=SITE_TEMPLATE_PATH?>/js/modernizr.js" type="text/javascript" charset="utf-8"></script>
 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
     <!--//PRIME//-->
     <script type="text/javascript" src="http://incut.prime-ltd.su/incut/incut.js" async></script>
     <link rel="stylesheet" href="http://incut.prime-ltd.su/incut/incut.css">

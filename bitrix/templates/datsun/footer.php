@@ -84,13 +84,13 @@
             );?>
             <div class="clear"></div>
 			<div class="footer-subcsribe-vk"><span>Присоединяйтесь к нам:</span>
-                 <a href="https://vk.com/ringautodatsun" target="_blank">
-                    <img width="" height="24" src="<?=SITE_TEMPLATE_PATH?>/images/vk.png" data-png-fallback="<?=SITE_TEMPLATE_PATH?>/images/vk.png">
-                </a>
 
-				<a href="https://ok.ru/group/54952238448891" target="_blank">
-					<img width="" height="24" src="<?=SITE_TEMPLATE_PATH?>/images/ok.png" data-png-fallback="<?=SITE_TEMPLATE_PATH?>/images/vk.png">
-				</a>
+                <a href="https://vk.com/boravto_borisoglebsk" target="_blank"><i class="fab fa-vk fa-2x"></i></a>
+				<a href="https://www.facebook.com/borauto.ru/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+				<a href="https://www.instagram.com/borauto.ru/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+				<a href="https://twitter.com/boravto" target="_blank"><i class="fab fa-twitter-square fa-2x"></i></a>
+				<a href="https://www.youtube.com/channel/UCNRXBnj3T8TwDTTJjkWyolA" target="_blank"><i class="fab fa-youtube-square fa-2x"></i></a>
+
 				<div class="clear"></div>
             </div>
         </div>

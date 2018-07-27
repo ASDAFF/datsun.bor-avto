@@ -1861,8 +1861,8 @@ footer {
 	/*float: left;*/
 }
 .footer-subcsribe-vk a {
-	/*display: inline-block;*/
-	/*float: right;*/
+	text-decoration: none;
+	color: #FFFFFF;
 }
 .footer-menu {
 	padding-right: 0;
