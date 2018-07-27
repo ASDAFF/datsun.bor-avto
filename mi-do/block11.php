@@ -23,11 +23,6 @@
                 <li><img src="/mi-do/images/g_15.jpg" alt=""></li>
             </ul>
         </div>
-        <h3>Видео Датсун Ми-До</h3>
-        <div class="video-container">
-            <!-- Video iframe code here  -->
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/279NQG9fKBQ" frameborder="0" allowfullscreen></iframe>
-        </div>
     </div>
 </section>
 <!-- VIDEO END -->
