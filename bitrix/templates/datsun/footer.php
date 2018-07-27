@@ -49,7 +49,7 @@
 
                 <li><a href="/center/" class="root-item">О компании</a>
                     <ul>
-                        <li><a href="/center/">Ринг Авто Север</a></li>
+                        <li><a href="/center/">БорАВТО</a></li>
                         <li><a href="/people/">Наш коллектив</a></li>
                         <li><a href="/news/">Новости</a></li>
                         <li><a href="/reviews/">Благодарности</a></li>
