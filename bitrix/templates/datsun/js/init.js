@@ -5,10 +5,10 @@ var myMap;
 
 function init () {
 	myMap = new ymaps.Map('map', {
-		center: [51.794608, 39.199428],
+		center: [51.379937, 42.123845],
 		zoom: 18
 	});
-	var myGeocoder = ymaps.geocode('А-134, 7-й километр, 4');
+	var myGeocoder = ymaps.geocode('Матросовская улица, 127');
 	myGeocoder.then(
 	function (res) {
 		var coords = res.geoObjects.get(0).geometry.getCoordinates();
