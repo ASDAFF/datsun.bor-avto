@@ -4,7 +4,6 @@ $APPLICATION->SetTitle("Datsun страхование, КАСКО");
 ?>
     <style>
         body {
-            font-size: .875em!important;
             line-height: 1.71429!important;
         }
         .wrapper{
