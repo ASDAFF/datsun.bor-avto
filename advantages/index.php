@@ -94,7 +94,8 @@ $APPLICATION->SetTitle("advantages");
                 <div class="first-title">DATSUN СЕЙЧАС</div>
             </div>
 
-            <a class="video-fancybox image start" href="#datsunToday" > <img src="./images/start.jpg" class="advantages-img"  /> </a>
+            <a class="image start" href="#" > <img src="./images/start.jpg" class="advantages-img"  /> </a>
+
             <div class="advantages-slider">
                 <ul class="advantages-slider-bx">
                     <li>
@@ -146,11 +147,11 @@ $APPLICATION->SetTitle("advantages");
             <iframe src="timeline.htm" class="timeline-frame" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
         </div>
 
-        <div id="datsunToday" style="display: none;"> <iframe width="854" height="480" src="https://www.youtube.com/embed/Rs57J92rNK8" frameborder="0" allowfullscreen=""></iframe>
+        <div id="datsunToday" style="display: none;"> <iframe width="854" height="480" src="#" frameborder="0" allowfullscreen=""></iframe>
             <div class="title"> 		 Datsun сегодня 	</div>
         </div>
 
-        <div id="datsunHistory" style="display: none;"> 	 Video iframe code here <iframe width="854" height="480" src="https://www.youtube.com/embed/B4WCOEej2N4" frameborder="0" allowfullscreen=""></iframe>
+        <div id="datsunHistory" style="display: none;"> <iframe width="854" height="480" src="https://www.youtube.com/embed/Rs57J92rNK8" frameborder="0" allowfullscreen=""></iframe>
             <div class="title"> 		 Datsun история 	</div>
         </div>
 
