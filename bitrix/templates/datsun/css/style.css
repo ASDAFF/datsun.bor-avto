@@ -636,6 +636,8 @@ section.news-list{
 	background: url('../images/header.png');
 	background-repeat-x: no-repeat;
 	background-size: contain;
+	margin-top:20px;
+	padding: 20px;
 }
 
 .news {
