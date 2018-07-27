@@ -37,7 +37,7 @@ $APPLICATION->SetTitle("corp_sales");
             </div>
 
             <div class="news-cont">
-                <p>Ринг Авто Север предлагает корпоративным клиентам специальные условия на покупку автомобилей Datsun:</p>
+                <p>БорАВТО предлагает корпоративным клиентам специальные условия на покупку автомобилей Datsun:</p>
                 <p>Условия по приобретению автомобилей и их сервисному обслуживанию рассчитываются индивидуально, в зависимости от набора услуг и размера парка автомобилей.</p>
                 <br />
 
@@ -137,7 +137,7 @@ $APPLICATION->SetTitle("corp_sales");
                                 <br />
                             </p>
 
-                            <p> <span class="ya-phone-1">+7 (473) 233-27-77</span></p>
+                            <p> <span class="ya-phone-1">+7 (47354) 5-11-55</span></p>
                         </div>
 
                         <div class="contact-icon"></div>
@@ -145,7 +145,7 @@ $APPLICATION->SetTitle("corp_sales");
                         <div class="contact-descr">
                             <p> <span class="descr1"><b>E-mail:</b></span>
                                 <br />
-                                <a href="mailto:info@datsun-ringauto.ru" >info@datsun-ringauto.ru</a>
+                                <a href="mailto:info@datsun-ringauto.ru" >borauto@borauto.ru </a>
                             </p>
                         </div>
                     </div>
@@ -155,7 +155,7 @@ $APPLICATION->SetTitle("corp_sales");
 
                 <div class="news-subtitle">Лизинг</div>
 
-                <p><b>Ринг Авто Север осуществляет продажу автомобилей Datsun в лизинг, предлагая каждому клиенту индивидуальный поход и персональную лизинговую программу.</b></p>
+                <p><b>БорАВТО осуществляет продажу автомобилей Datsun в лизинг, предлагая каждому клиенту индивидуальный поход и персональную лизинговую программу.</b></p>
                 <b>
                     <ol>
                         <li value="1">Существенная экономия</li>
@@ -189,7 +189,7 @@ $APPLICATION->SetTitle("corp_sales");
                 </b>
                 <p>Платежи по лизингу полностью относятся на себестоимость, что приводит к значительному сокращению налоговых сумм при расчете налогооблагаемой прибыли.</p>
 
-                <p><b>Звоните <span class="ya-phone-1">+7 (473) 233-27-77</span> или оставьте <a href="/contacts/" >запрос на звонок</a>, и мы перезвоним.</b></p>
+                <p><b>Звоните <span class="ya-phone-1">+7 (47354) 5-11-55</span> или оставьте <a href="/contacts/" >запрос на звонок</a>, и мы перезвоним.</b></p>
             </div>
             <br />
         </div>

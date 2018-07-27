@@ -1,4 +1,3 @@
-
 <footer>
     <div class="footer-inner">
         <div class="footer-subcsribe">
@@ -208,7 +207,7 @@
 
 
 
-                        <li><a href="/center/">Ринг Авто</a></li>
+                        <li><a href="/center/">БорАВТО</a></li>
 
 
 
