@@ -1913,7 +1913,7 @@ footer {
     font-weight: 300;
     line-height: normal;
     text-align: center;
-    padding: 2em 5em 1em;
+    padding: 2em 0em 1em;
 }
 .copyright a.to_sitemap {
 	color: #fff;
@@ -4465,4 +4465,10 @@ content: '';
 
 .form-i.footer-_sub .agreement a{
 	color: #b4b4b4;
+}
+
+.prime-incut{
+	position: absolute;
+	bottom: 15px;
+	right: 0;
 }
