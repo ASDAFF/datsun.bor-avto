@@ -94,7 +94,7 @@ $APPLICATION->SetTitle("advantages");
                 <div class="first-title">DATSUN СЕЙЧАС</div>
             </div>
 
-            <a class="image start" href="#" > <img src="./images/start.jpg" class="advantages-img"  /> </a>
+            <a class="image start" href="javascript:void(0)" > <img src="./images/start.jpg" class="advantages-img"  /> </a>
 
             <div class="advantages-slider">
                 <ul class="advantages-slider-bx">
