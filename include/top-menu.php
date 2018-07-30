@@ -69,7 +69,6 @@
                         <li><a href="/warranty/">Гарантия</a></li>
                         <li><a href="/accessories/">Запчасти</a></li>
                         <li><a href="/aksessuary/">Aксессуары</a></li>
-                        <li><a href="/o-servise/">О сервисе</a></li>
                     </ul>
 
                 </li>
