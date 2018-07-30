@@ -124,10 +124,13 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && $_POST["submit"] <> '' && (!isset($_P
 			if(!$PRODUCT_ID){
 				echo "Error: ".$el->LAST_ERROR;
 				die();
+			}else{
+				$db_props = CIBlockElement::GetProperty($arParams['IBLOCK_ID'], $PRODUCT_ID, array("sort" => "asc"), Array("CODE" => "MODEL"));
+				if($ar_props = $db_props->Fetch()){
+					$_POST[$ar_props['CODE']] = $ar_props['VALUE_ENUM'];
+				}
 			}
-
 		}
-
 
 		if(empty($arResult["ERROR_MESSAGE"]))
 		{
